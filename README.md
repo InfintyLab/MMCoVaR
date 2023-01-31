@@ -7,6 +7,11 @@ and Conditions.
 
 ## Description
 
+This is the repository of MMCoVaR in the paper "MMCoVaR: Multimodal COVID-19 Vaccine Focused Data Repository for Fake News Detection and a Baseline Architecture for Classification", ASONAM 2021.
+
+MMCoVaR News Dataset: MMCoVaR_News_Dataset.csv
+MMCoVaR Tweet Dataset: MMCoVaR_Tweet_Dataset.csv
+
 ## Citation 
 
 If you use this data in your research, please cite the following paper:
