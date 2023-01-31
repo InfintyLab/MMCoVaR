@@ -7,9 +7,15 @@ If you use this data in your research, please cite the following paper:
 
 Mingxuan Chen, Xinqiao Chu, K. P. Subbalakshmi, "MMCoVaR: Multimodal COVID-19 Vaccine Focused Data Repository for Fake News Detection and a Baseline Architecture for Classification", ASONAM 2021.
 
-  @inproceedings{chen2021mmcovar,
-  title={Mmcovar: multimodal COVID-19 vaccine focused data repository for fake news detection and a baseline architecture for classification},
-  author={Chen, Mingxuan and Chu, Xinqiao and Subbalakshmi, KP},
-  booktitle={Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
-  pages={31--38},
-  year={2021}}
+
+    @inproceedings{qin-yang-2019-say,
+    title = "What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues",
+    author = "Qin, Yu  and
+      Yang, Yi",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1038",
+    pages = "390--401",}
