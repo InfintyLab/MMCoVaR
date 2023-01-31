@@ -1,6 +1,12 @@
 # MMCoVaR-
 MMCoVaR: Multimodal COVID-19 Vaccine Focused Data Repository(ASONAM 2021)
 
+Our collection relies upon publicly available data and is registered as IRB exempt by Stevens Institute of Technology IRB
+(approved protocol 2021-035(N)). We release the data set with the stipulation that those who use it must comply with Twitter’s Terms
+and Conditions.
+
+## Description
+
 ## Citation 
 
 If you use this data in your research, please cite the following paper:
