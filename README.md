@@ -6,9 +6,9 @@ MMCoVaR News Dataset: MMCoVaR_News_Dataset.csv
 
 MMCoVaR Tweet Dataset: MMCoVaR_Tweet_Dataset.csv
 
-Our collection relies upon publicly available data and is registered as IRB exempt by Stevens Institute of Technology IRB
+**Our collection relies upon publicly available data and is registered as IRB exempt by Stevens Institute of Technology IRB
 (approved protocol 2021-035(N)). We release the data set with the stipulation that those who use it must comply with Twitter’s Terms
-and Conditions.
+and Conditions.**
 
 ## Citation 
 
